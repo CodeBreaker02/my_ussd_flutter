@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - ussd_advanced (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - ussd_advanced (from `.symlinks/plugins/ussd_advanced/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  ussd_advanced:
+    :path: ".symlinks/plugins/ussd_advanced/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  ussd_advanced: a84819678a0cb2f457d747cd9539a0ec0a0f5c28
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.16.2
